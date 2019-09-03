@@ -1,0 +1,23 @@
+{
+  "name": "gh.cashregister",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woodsleaf/cashregister.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/woodsleaf/cashregister/issues"
+  },
+  "homepage": "https://github.com/woodsleaf/cashregister#readme",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "quokka": "0.0.7"
+  }
+}
